@@ -397,13 +397,12 @@ images/dashboard3.png
 - EDA
 - Business Analytics
 
-📧 Email: your-email@example.com
+📧 Email: rajpuresahil9867@gmail.com
 
 💼 LinkedIn:
-https://linkedin.com/in/yourprofile
+[https://linkedin.com/in/yourprofile](https://www.linkedin.com/feed/)
 
-🌐 Portfolio:
-https://yourportfolio.com
+
 
 ---
 
